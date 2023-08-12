@@ -15,5 +15,6 @@ public class Animal {
     public void info() {
         System.out.println("The height of animal: " + height + "ft" + "\n" +
                 "Animal Name: " + name + "\n" + "Color: " + color + "\n" + "Weight: " + weight + "kgs");
+        System.out.println("Hello");
     }
 }
